@@ -331,3 +331,7 @@ footer {
 .clearfix {
     overflow: auto;
 }
+
+#id {
+  size: 100%
+}
