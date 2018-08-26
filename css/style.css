@@ -328,10 +328,8 @@ footer {
   margin-left: 0;
 }
 
-.clearfix {
-    overflow: auto;
-}
+
 
 .wrapper2 {
-  height: 50px;
+  height: 500px;
 }
