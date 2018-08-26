@@ -307,17 +307,17 @@ footer {
 .col-1 {
 	float: left;
 	width: 32%;
-	background: white
+	background: white;
 }
 
 .col-2 {
 	float: left;
 	width: 66%;
-	background: white
+	background: white;
 }
 
 .col-3 {
-	background: white
+	background: white;
 }
 
 [class*="col-"] {
